@@ -272,7 +272,6 @@ This project demonstrates how behavior-based monitoring can detect suspicious ac
 
 **Vaishali Vasant Kadam**
 Cyber Security Internship Project
-📅 28 March 2026
 
 ---
 
