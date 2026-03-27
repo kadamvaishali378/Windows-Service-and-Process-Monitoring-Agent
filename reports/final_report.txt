@@ -1,0 +1,333 @@
+WINDOWS SECURITY MONITORING REPORT
+========================================
+Generated: 2026-03-20 22:16:51.773165
+
+Total Running Processes: 292
+Total Alerts: 317
+
+Severity Breakdown:
+  HIGH   : 3
+  MEDIUM : 295
+  LOW    : 19
+
+Overall System Risk Level: HIGH
+
+Detailed Alerts:
+----------------------------------------
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'HIGH', 'type': 'Suspicious Parent-Child', 'parent': 'chrome.exe', 'child': 'cmd.exe', 'pid': 7600}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'HIGH', 'type': 'Suspicious Parent-Child', 'parent': 'chrome.exe', 'child': 'cmd.exe', 'pid': 9948}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'MEDIUM', 'type': 'Suspicious Execution Path', 'process': 'CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.exe', 'pid': 7700}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'MEDIUM', 'type': 'Suspicious Execution Path', 'process': 'CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.tmp', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Temp\\is-U7V1A.tmp\\CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.tmp', 'pid': 22792}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'DataExchangeHost.exe', 'pid': 208, 'path': 'C:\\Windows\\System32\\DataExchangeHost.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'MicrosoftStartFeedProvider.exe', 'pid': 3688, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.241.0.0_x64__8wekyb3d8bbwe\\MicrosoftStartFeedProvider\\MicrosoftStartFeedProvider.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'smartscreen.exe', 'pid': 4908, 'path': 'C:\\Windows\\System32\\smartscreen.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'backgroundTaskHost.exe', 'pid': 6348, 'path': 'C:\\Windows\\System32\\backgroundTaskHost.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.exe', 'pid': 7700, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'backgroundTaskHost.exe', 'pid': 8532, 'path': 'C:\\Windows\\System32\\backgroundTaskHost.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'ShellHost.exe', 'pid': 8928, 'path': 'C:\\Windows\\System32\\ShellHost.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'CrossDeviceResume.exe', 'pid': 9272, 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'WidgetBoard.exe', 'pid': 11156, 'path': 'C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy\\WidgetBoard.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'SDXHelper.exe', 'pid': 12552, 'path': 'C:\\Program Files\\Microsoft Office\\root\\Office16\\SDXHelper.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'BridgeCommunication.exe', 'pid': 13812, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_9112ff0b96dede5a\\x64\\BridgeCommunication.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'BridgeCommunication.exe', 'pid': 13848, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_9112ff0b96dede5a\\x64\\BridgeCommunication.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'RtkWiFiManServ.exe', 'pid': 15332, 'path': 'C:\\Windows\\RtkWiFiManServ.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'AppActions.exe', 'pid': 16096, 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'audiodg.exe', 'pid': 16668, 'path': 'C:\\Windows\\System32\\audiodg.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.tmp', 'pid': 22792, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Temp\\is-U7V1A.tmp\\CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.tmp'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'Clipchamp.Widgets.exe', 'pid': 23188, 'path': 'C:\\Program Files\\WindowsApps\\Clipchamp.Clipchamp_4.5.10220.0_x64__yxz26nhyzhsrt\\Clipchamp.Widgets\\Clipchamp.Widgets.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'PhoneExperienceHost.exe', 'pid': 23368, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe'}
+{'timestamp': '2026-03-20 22:16:44', 'severity': 'LOW', 'type': 'Unauthorized Process', 'process': 'mcupdate.exe', 'pid': 23660, 'path': 'C:\\Program Files\\McAfee.com\\Agent\\mcupdate.exe'}
+{'type': 'New Process Detected', 'process': 'System Idle Process', 'pid': 0, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'System', 'pid': 4, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'DataExchangeHost.exe', 'pid': 208, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Registry', 'pid': 232, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 336, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 540, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'smss.exe', 'pid': 780, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 796, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 920, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1060, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ModuleCoreService.exe', 'pid': 1136, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'csrss.exe', 'pid': 1160, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1180, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'wininit.exe', 'pid': 1304, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'csrss.exe', 'pid': 1312, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1360, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'winlogon.exe', 'pid': 1408, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'services.exe', 'pid': 1428, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'LsaIso.exe', 'pid': 1472, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'lsass.exe', 'pid': 1484, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1540, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1548, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1620, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'fontdrvhost.exe', 'pid': 1644, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'fontdrvhost.exe', 'pid': 1648, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1744, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1800, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1844, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RtkAudUService64.exe', 'pid': 1848, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'dwm.exe', 'pid': 1888, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'AggregatorHost.exe', 'pid': 1956, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 1980, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2004, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MfeAVSvc.exe', 'pid': 2076, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2144, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2152, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2168, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2264, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2364, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2428, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2436, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2596, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2640, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'dllhost.exe', 'pid': 2664, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2688, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'atiesrxx.exe', 'pid': 2736, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'amdfendrsr.exe', 'pid': 2744, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'OneDrive.exe', 'pid': 2844, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 2928, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 2968, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SecurityHealthService.exe', 'pid': 2992, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3032, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WidgetService.exe', 'pid': 3208, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'atieclxx.exe', 'pid': 3332, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3340, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3348, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3356, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 3384, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MemCompression', 'pid': 3432, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3472, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3536, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'TouchpointAnalyticsClientService.exe', 'pid': 3544, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'NetworkCap.exe', 'pid': 3552, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SysInfoCap.exe', 'pid': 3560, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'DiagsCap.exe', 'pid': 3568, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'AppHelperCap.exe', 'pid': 3576, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3584, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3640, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ExpressVPNNotificationService.exe', 'pid': 3676, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MicrosoftStartFeedProvider.exe', 'pid': 3688, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3832, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3840, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'OpenConsole.exe', 'pid': 3848, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3876, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 3940, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4004, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4100, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4256, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4284, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ctfmon.exe', 'pid': 4336, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4476, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4612, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'unsecapp.exe', 'pid': 4692, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'cmd.exe', 'pid': 4700, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4748, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4828, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 4872, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WmiPrvSE.exe', 'pid': 4896, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'smartscreen.exe', 'pid': 4908, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5016, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'spoolsv.exe', 'pid': 5100, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5140, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchFilterHost.exe', 'pid': 5188, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'HPCommRecovery.exe', 'pid': 5212, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ms-teams.exe', 'pid': 5220, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ETDService.exe', 'pid': 5224, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'nssm.exe', 'pid': 5232, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'HPPrintScanDoctorService.exe', 'pid': 5240, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'mfemms.exe', 'pid': 5268, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5276, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MpDefenderCoreService.exe', 'pid': 5284, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'OfficeClickToRun.exe', 'pid': 5292, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'uihost.exe', 'pid': 5308, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5320, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5332, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ModuleCoreService.exe', 'pid': 5344, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'PEFService.exe', 'pid': 5412, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RtkAudUService64.exe', 'pid': 5448, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RtkBtManServ.exe', 'pid': 5492, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SECOMN64.exe', 'pid': 5504, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5532, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MsMpEng.exe', 'pid': 5552, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5584, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 5632, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'expressvpnd.exe', 'pid': 5724, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 5900, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchProtocolHost.exe', 'pid': 5912, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 6016, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ETDCtrl.exe', 'pid': 6048, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ProtectedModuleHost.exe', 'pid': 6088, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'backgroundTaskHost.exe', 'pid': 6348, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SECOCL64.exe', 'pid': 6920, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 6936, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'mfevtps.exe', 'pid': 7004, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MMSSHOST.exe', 'pid': 7060, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 7144, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SecurityHealthSystray.exe', 'pid': 7160, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 7340, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 7480, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 7488, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 7528, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RtkAudUService64.exe', 'pid': 7568, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'cmd.exe', 'pid': 7600, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 7612, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'HPMediaNetwork.exe', 'pid': 7616, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 7648, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.exe', 'pid': 7700, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 7732, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 7824, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 7848, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ModuleCoreService.exe', 'pid': 8116, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'McCSPServiceHost.exe', 'pid': 8124, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 8132, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8196, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'sihost.exe', 'pid': 8208, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8296, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8332, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8384, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8444, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'backgroundTaskHost.exe', 'pid': 8532, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 8572, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'taskhostw.exe', 'pid': 8580, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8652, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 8840, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'unsecapp.exe', 'pid': 8876, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'explorer.exe', 'pid': 8904, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ShellHost.exe', 'pid': 8928, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9060, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ms-teams.exe', 'pid': 9228, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9232, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9264, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'CrossDeviceResume.exe', 'pid': 9272, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9312, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9584, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9744, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 9932, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 9936, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'cmd.exe', 'pid': 9948, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 10084, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 10140, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 10144, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 10276, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 10328, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 10388, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 10536, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WhatsApp.Root.exe', 'pid': 10552, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 10636, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'servicehost.exe', 'pid': 10736, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'mcshield.exe', 'pid': 10784, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchHost.exe', 'pid': 10900, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'StartMenuExperienceHost.exe', 'pid': 10908, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 11148, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WidgetBoard.exe', 'pid': 11156, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchIndexer.exe', 'pid': 11340, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 11440, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'NisSrv.exe', 'pid': 11836, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'mcapexe.exe', 'pid': 11912, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 12000, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'LockApp.exe', 'pid': 12128, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 12236, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 12268, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 12384, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 12420, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SDXHelper.exe', 'pid': 12552, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchFilterHost.exe', 'pid': 12644, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 12832, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 12912, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'dasHost.exe', 'pid': 12968, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Copilot.exe', 'pid': 13236, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SystemSettings.exe', 'pid': 13248, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'HPSystemEventUtilityHost.exe', 'pid': 13264, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ApplicationFrameHost.exe', 'pid': 13280, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 13388, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 13436, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'python.exe', 'pid': 13552, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 13612, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'McUICnt.exe', 'pid': 13624, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 13800, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 13808, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'BridgeCommunication.exe', 'pid': 13812, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'BridgeCommunication.exe', 'pid': 13848, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 13876, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 14236, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 14296, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 14588, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 14600, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchFilterHost.exe', 'pid': 14608, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 14656, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 14680, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 14804, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 15012, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 15184, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'FileSyncHelper.exe', 'pid': 15232, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RtkWiFiManServ.exe', 'pid': 15332, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 15412, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 15568, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 15700, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 15704, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'HPSystemEventUtilityBackground.exe', 'pid': 15708, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 15712, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 15836, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'AppActions.exe', 'pid': 16096, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'FileCoAuth.exe', 'pid': 16136, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 16152, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 16332, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 16524, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'audiodg.exe', 'pid': 16668, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 16896, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 16916, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 16988, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 17232, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 17492, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'SearchFilterHost.exe', 'pid': 17668, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WINWORD.EXE', 'pid': 17792, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 17852, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ShellExperienceHost.exe', 'pid': 17896, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 18116, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'dasHost.exe', 'pid': 18156, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 18160, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'DesktopExtension.exe', 'pid': 18456, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 18468, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 18532, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 18580, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'HP.HPX.exe', 'pid': 18600, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 18988, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 19192, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 19216, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 19228, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 19260, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 19296, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 19412, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'chrome.exe', 'pid': 19744, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'MfeBrowserHost.exe', 'pid': 19776, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'browserhost.exe', 'pid': 19912, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ONENOTEM.EXE', 'pid': 19944, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'LinkedIn.exe', 'pid': 20304, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 20364, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 20544, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 20816, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedge.exe', 'pid': 21008, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'msedgewebview2.exe', 'pid': 21160, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'pet.exe', 'pid': 21384, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 21468, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'RuntimeBroker.exe', 'pid': 21648, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 21888, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 22172, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 22228, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'aimgr.exe', 'pid': 22488, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Notepad.exe', 'pid': 22496, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WmiPrvSE.exe', 'pid': 22512, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 22652, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'CodeSetup-stable-07ff9d6178ede9a1bd12ad3399074d726ebe6e43.tmp', 'pid': 22792, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Clipchamp.Widgets.exe', 'pid': 23188, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'powershell.exe', 'pid': 23220, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'PhoneExperienceHost.exe', 'pid': 23368, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'conhost.exe', 'pid': 23448, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'Code.exe', 'pid': 23560, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'mcupdate.exe', 'pid': 23660, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'WindowsTerminal.exe', 'pid': 23768, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'ai.exe', 'pid': 23880, 'severity': 'MEDIUM'}
+{'type': 'New Process Detected', 'process': 'svchost.exe', 'pid': 24204, 'severity': 'MEDIUM'}
+{'type': 'Service missing executable path', 'service': 'LSM', 'severity': 'MEDIUM'}
+{'type': 'Service missing executable path', 'service': 'NetSetupSvc', 'severity': 'MEDIUM'}
+{'type': 'Service running from suspicious location', 'service': 'BcastDVRUserService_c3c61', 'path': 'C:\\WINDOWS\\system32\\svchost.exe -k BcastDVRUserService', 'severity': 'HIGH'}
