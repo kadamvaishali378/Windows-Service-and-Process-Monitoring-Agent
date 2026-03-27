@@ -1,0 +1,220 @@
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 1396}
+{'type': 'Suspicious Execution Path', 'process': 'browser_assistant.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera GX\\assistant\\browser_assistant.exe', 'pid': 2992}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 8520}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 12856}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 19372}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 20292}
+{'type': 'Suspicious Execution Path', 'process': 'browser_assistant.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera GX\\assistant\\browser_assistant.exe', 'pid': 21176}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 21560}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 23844}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 26048}
+{'type': 'Suspicious Execution Path', 'process': 'DesktopExtension.exe', 'path': 'C:\\Program Files\\WindowsApps\\AD2F1837.myHP_52.52602.670.0_x64__v10z8vjag6ke6\\win32\\DesktopExtension.exe', 'pid': 26184}
+{'type': 'Suspicious Execution Path', 'process': 'python.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Python\\Python314\\python.exe', 'pid': 30052}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 30988}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 33384}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 35224}
+{'type': 'Suspicious Execution Path', 'process': 'Code.exe', 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'pid': 38728}
+{'type': 'Suspicious Parent-Child', 'parent': 'chrome.exe', 'child': 'cmd.exe', 'pid': 11372}
+{'type': 'Suspicious Parent-Child', 'parent': 'chrome.exe', 'child': 'cmd.exe', 'pid': 40868}
+{'type': 'Suspicious Parent-Child', 'parent': 'chrome.exe', 'child': 'cmd.exe', 'pid': 11372}
+{'type': 'Suspicious Parent-Child', 'parent': 'chrome.exe', 'child': 'cmd.exe', 'pid': 40868}
+{'type': 'Unauthorized Process', 'process': 'Registry', 'pid': 180, 'path': 'Registry'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 1224, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 1232, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'LsaIso.exe', 'pid': 1276, 'path': 'C:\\Windows\\System32\\LsaIso.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 1396, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'fontdrvhost.exe', 'pid': 1476, 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'OfficeClickToRun.exe', 'pid': 2332, 'path': 'C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe'}
+{'type': 'Unauthorized Process', 'process': 'MpDefenderCoreService.exe', 'pid': 2480, 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MpDefenderCoreService.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 2564, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'amdfendrsr.exe', 'pid': 2636, 'path': 'C:\\Windows\\System32\\amdfendrsr.exe'}
+{'type': 'Unauthorized Process', 'process': 'atiesrxx.exe', 'pid': 2668, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\u0401681.inf_amd64_636ae48616d7efc4\\B401510\\atiesrxx.exe'}
+{'type': 'Unauthorized Process', 'process': 'browser_assistant.exe', 'pid': 2992, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera GX\\assistant\\browser_assistant.exe'}
+{'type': 'Unauthorized Process', 'process': 'FileSyncHelper.exe', 'pid': 3088, 'path': 'C:\\Program Files\\Microsoft OneDrive\\26.012.0119.0002\\FileSyncHelper.exe'}
+{'type': 'Unauthorized Process', 'process': 'MemCompression', 'pid': 3292, 'path': 'MemCompression'}
+{'type': 'Unauthorized Process', 'process': 'TouchpointAnalyticsClientService.exe', 'pid': 3432, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpanalyticscomp.inf_amd64_ef460d1f2a35fc16\\x64\\TouchpointAnalyticsClientService.exe'}
+{'type': 'Unauthorized Process', 'process': 'dllhost.exe', 'pid': 3484, 'path': 'C:\\Windows\\System32\\dllhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'unsecapp.exe', 'pid': 3740, 'path': 'C:\\Windows\\System32\\wbem\\unsecapp.exe'}
+{'type': 'Unauthorized Process', 'process': 'taskhostw.exe', 'pid': 3772, 'path': 'C:\\Windows\\System32\\taskhostw.exe'}
+{'type': 'Unauthorized Process', 'process': 'SearchIndexer.exe', 'pid': 3828, 'path': 'C:\\Windows\\System32\\SearchIndexer.exe'}
+{'type': 'Unauthorized Process', 'process': 'WmiPrvSE.exe', 'pid': 4240, 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'}
+{'type': 'Unauthorized Process', 'process': 'SysInfoCap.exe', 'pid': 4248, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_9112ff0b96dede5a\\x64\\SysInfoCap.exe'}
+{'type': 'Unauthorized Process', 'process': 'dasHost.exe', 'pid': 4584, 'path': 'C:\\Windows\\System32\\dasHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'spoolsv.exe', 'pid': 4656, 'path': 'C:\\Windows\\System32\\spoolsv.exe'}
+{'type': 'Unauthorized Process', 'process': 'nssm.exe', 'pid': 4884, 'path': 'C:\\Program Files (x86)\\ExpressVPN\\bootstrap\\amd64\\nssm.exe'}
+{'type': 'Unauthorized Process', 'process': 'HPPrintScanDoctorService.exe', 'pid': 4936, 'path': 'C:\\Program Files\\HPPrintScanDoctor\\HPPrintScanDoctorService.exe'}
+{'type': 'Unauthorized Process', 'process': 'HPCommRecovery.exe', 'pid': 4944, 'path': 'C:\\Program Files\\HPCommRecovery\\HPCommRecovery.exe'}
+{'type': 'Unauthorized Process', 'process': 'NetworkCap.exe', 'pid': 4960, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_9112ff0b96dede5a\\x64\\NetworkCap.exe'}
+{'type': 'Unauthorized Process', 'process': 'ETDService.exe', 'pid': 4976, 'path': 'C:\\Windows\\System32\\ETDService.exe'}
+{'type': 'Unauthorized Process', 'process': 'WhatsApp.Root.exe', 'pid': 4996, 'path': 'C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2587.10.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe'}
+{'type': 'Unauthorized Process', 'process': 'mfemms.exe', 'pid': 5028, 'path': 'C:\\Program Files\\Common Files\\McAfee\\SystemCore\\mfemms.exe'}
+{'type': 'Unauthorized Process', 'process': 'mysqld.exe', 'pid': 5136, 'path': 'C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe'}
+{'type': 'Unauthorized Process', 'process': 'PEFService.exe', 'pid': 5152, 'path': 'C:\\Program Files\\Common Files\\McAfee\\PEF\\CORE\\PEFService.exe'}
+{'type': 'Unauthorized Process', 'process': 'ModuleCoreService.exe', 'pid': 5164, 'path': 'C:\\Program Files\\Common Files\\McAfee\\ModuleCore\\ModuleCoreService.exe'}
+{'type': 'Unauthorized Process', 'process': 'RtkAudUService64.exe', 'pid': 5208, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_af49968a824c7864\\RtkAudUService64.exe'}
+{'type': 'Unauthorized Process', 'process': 'RtkBtManServ.exe', 'pid': 5236, 'path': 'C:\\Windows\\RtkBtManServ.exe'}
+{'type': 'Unauthorized Process', 'process': 'SECOMN64.exe', 'pid': 5304, 'path': 'C:\\Windows\\System32\\SECOMN64.exe'}
+{'type': 'Unauthorized Process', 'process': 'expressvpnd.exe', 'pid': 5336, 'path': 'C:\\Program Files (x86)\\ExpressVPN\\expressvpnd\\expressvpnd.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 5620, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'WINWORD.EXE', 'pid': 5860, 'path': 'C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 5868, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 6172, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 6212, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'mysqld.exe', 'pid': 6244, 'path': 'C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe'}
+{'type': 'Unauthorized Process', 'process': 'ProtectedModuleHost.exe', 'pid': 6252, 'path': 'C:\\Program Files\\Common Files\\McAfee\\ModuleCore\\ProtectedModuleHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 6296, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'MMSSHOST.exe', 'pid': 6692, 'path': 'C:\\Program Files\\Common Files\\McAfee\\MMSSHost\\MMSSHOST.exe'}
+{'type': 'Unauthorized Process', 'process': 'mfevtps.exe', 'pid': 6964, 'path': 'C:\\Windows\\System32\\mfevtps.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 7088, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'NisSrv.exe', 'pid': 7152, 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\NisSrv.exe'}
+{'type': 'Unauthorized Process', 'process': 'McCSPServiceHost.exe', 'pid': 7584, 'path': 'C:\\Program Files\\Common Files\\McAfee\\CSP\\5.5.107.0\\McCSPServiceHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'ModuleCoreService.exe', 'pid': 8156, 'path': 'C:\\Program Files\\Common Files\\McAfee\\ModuleCore\\ModuleCoreService.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 8188, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 8200, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 8380, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'CHXSmartScreen.exe', 'pid': 8408, 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\\CHXSmartScreen.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 8520, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 8752, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'LockApp.exe', 'pid': 9152, 'path': 'C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 9976, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'LocationNotificationWindows.exe', 'pid': 10348, 'path': 'C:\\Windows\\System32\\LocationNotificationWindows.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 10956, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 11020, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'cmd.exe', 'pid': 11372, 'path': 'C:\\Windows\\System32\\cmd.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 11696, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'SecurityHealthService.exe', 'pid': 12256, 'path': 'C:\\Windows\\System32\\SecurityHealthService.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 12480, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 12644, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 12680, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 12752, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'servicehost.exe', 'pid': 12812, 'path': 'C:\\Program Files\\McAfee\\WebAdvisor\\servicehost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 12840, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'ONENOTEM.EXE', 'pid': 12844, 'path': 'C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTEM.EXE'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 12856, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'mcapexe.exe', 'pid': 12872, 'path': 'C:\\Program Files\\Common Files\\McAfee\\VSCore_22_12\\mcapexe.exe'}
+{'type': 'Unauthorized Process', 'process': 'MfeAVSvc.exe', 'pid': 13196, 'path': 'C:\\Program Files\\McAfee\\MfeAV\\MfeAVSvc.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 13840, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'mcshield.exe', 'pid': 14044, 'path': 'C:\\Program Files\\Common Files\\McAfee\\AMCore\\mcshield.exe'}
+{'type': 'Unauthorized Process', 'process': 'WmiPrvSE.exe', 'pid': 14100, 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 14840, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'cmd.exe', 'pid': 15412, 'path': 'C:\\Windows\\System32\\cmd.exe'}
+{'type': 'Unauthorized Process', 'process': 'Microsoft.Notes.exe', 'pid': 15780, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftStickyNotes_6.1.4.0_x64__8wekyb3d8bbwe\\Microsoft.Notes.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 16000, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 16996, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 17980, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 18048, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'QcShm.exe', 'pid': 18332, 'path': 'C:\\Program Files\\McAfee\\MQS\\QcShm.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 18404, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 19372, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'WidgetService.exe', 'pid': 19840, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe'}
+{'type': 'Unauthorized Process', 'process': 'HPSystemEventUtilityHost.exe', 'pid': 20052, 'path': 'C:\\Program Files\\WindowsApps\\AD2F1837.HPSystemEventUtility_3.2.16.0_x64__v10z8vjag6ke6\\SystemEventUtility\\HPSystemEventUtilityHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'unsecapp.exe', 'pid': 20216, 'path': 'C:\\Windows\\System32\\wbem\\unsecapp.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 20260, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 20292, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 20344, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 20440, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 20548, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 20592, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 20736, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 20804, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'aimgr.exe', 'pid': 20972, 'path': 'C:\\Program Files\\Microsoft Office\\root\\vfs\\ProgramFilesCommonX64\\Microsoft Shared\\OFFICE16\\AI\\aimgr.exe'}
+{'type': 'Unauthorized Process', 'process': 'RtkAudUService64.exe', 'pid': 21000, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_af49968a824c7864\\RtkAudUService64.exe'}
+{'type': 'Unauthorized Process', 'process': 'browser_assistant.exe', 'pid': 21176, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Opera GX\\assistant\\browser_assistant.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 21560, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'ms-teams.exe', 'pid': 21756, 'path': 'C:\\Program Files\\WindowsApps\\MSTeams_26015.1706.4351.4392_x64__8wekyb3d8bbwe\\ms-teams.exe'}
+{'type': 'Unauthorized Process', 'process': 'python.exe', 'pid': 22000, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Python\\Python314\\python.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 22340, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 22820, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'AppHelperCap.exe', 'pid': 22884, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_9112ff0b96dede5a\\x64\\AppHelperCap.exe'}
+{'type': 'Unauthorized Process', 'process': 'powershell.exe', 'pid': 23040, 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 23096, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'pet.exe', 'pid': 23432, 'path': 'C:\\Users\\Vaishali\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python-env-tools\\bin\\pet.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 23732, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 23844, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'winlogon.exe', 'pid': 23944, 'path': 'C:\\Windows\\System32\\winlogon.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 24208, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'dasHost.exe', 'pid': 25052, 'path': 'C:\\Windows\\System32\\dasHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'DiagsCap.exe', 'pid': 25548, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_9112ff0b96dede5a\\x64\\DiagsCap.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 25588, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'ShellExperienceHost.exe', 'pid': 25628, 'path': 'C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 25720, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 25968, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 26048, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'DesktopExtension.exe', 'pid': 26184, 'path': 'C:\\Program Files\\WindowsApps\\AD2F1837.myHP_52.52602.670.0_x64__v10z8vjag6ke6\\win32\\DesktopExtension.exe'}
+{'type': 'Unauthorized Process', 'process': 'atieclxx.exe', 'pid': 26440, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\u0401681.inf_amd64_636ae48616d7efc4\\B401510\\atieclxx.exe'}
+{'type': 'Unauthorized Process', 'process': 'OneDrive.exe', 'pid': 26532, 'path': 'C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe'}
+{'type': 'Unauthorized Process', 'process': 'SECOCL64.exe', 'pid': 26628, 'path': 'C:\\Windows\\System32\\SECOCL64.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 26820, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'HPSystemEventUtilityBackground.exe', 'pid': 27076, 'path': 'C:\\Program Files\\WindowsApps\\AD2F1837.HPSystemEventUtility_3.2.16.0_x64__v10z8vjag6ke6\\SystemEventUtility\\HPSystemEventUtilityBackground.exe'}
+{'type': 'Unauthorized Process', 'process': 'SystemSettings.exe', 'pid': 27096, 'path': 'C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe'}
+{'type': 'Unauthorized Process', 'process': 'browserhost.exe', 'pid': 27152, 'path': 'C:\\Program Files\\McAfee\\WebAdvisor\\browserhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'SearchProtocolHost.exe', 'pid': 27308, 'path': 'C:\\Windows\\System32\\SearchProtocolHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 27684, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 28428, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'StartMenuExperienceHost.exe', 'pid': 28532, 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 29012, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'ETDCtrl.exe', 'pid': 29684, 'path': 'C:\\Windows\\System32\\ETDCtrl.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 30020, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 30072, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'SearchHost.exe', 'pid': 30076, 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'MsMpEng.exe', 'pid': 30228, 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26010.5-0\\MsMpEng.exe'}
+{'type': 'Unauthorized Process', 'process': 'uihost.exe', 'pid': 30300, 'path': 'C:\\Program Files\\McAfee\\WebAdvisor\\uihost.exe'}
+{'type': 'Unauthorized Process', 'process': 'sihost.exe', 'pid': 30440, 'path': 'C:\\Windows\\System32\\sihost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 30500, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'ModuleCoreService.exe', 'pid': 30568, 'path': 'C:\\Program Files\\Common Files\\McAfee\\ModuleCore\\ModuleCoreService.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 30656, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'WindowsTerminal.exe', 'pid': 30752, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 30988, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'HPMediaNetwork.exe', 'pid': 31156, 'path': 'C:\\Program Files\\HP\\HP Media Network\\HPMediaNetwork.exe'}
+{'type': 'Unauthorized Process', 'process': 'fontdrvhost.exe', 'pid': 31280, 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 31436, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 31676, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'RtkAudUService64.exe', 'pid': 31944, 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_af49968a824c7864\\RtkAudUService64.exe'}
+{'type': 'Unauthorized Process', 'process': 'dllhost.exe', 'pid': 32060, 'path': 'C:\\Windows\\System32\\dllhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'MfeBrowserHost.exe', 'pid': 32416, 'path': 'C:\\Program Files\\McAfee\\MSC\\MfeBrowserHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 32572, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 32808, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 33004, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 33384, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'audiodg.exe', 'pid': 33592, 'path': 'C:\\Windows\\System32\\audiodg.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 33704, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'ai.exe', 'pid': 33788, 'path': 'C:\\Program Files\\Microsoft Office\\root\\vfs\\ProgramFilesCommonX64\\Microsoft Shared\\OFFICE16\\AI\\ai.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 34296, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 34312, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'SecurityHealthSystray.exe', 'pid': 34328, 'path': 'C:\\Windows\\System32\\SecurityHealthSystray.exe'}
+{'type': 'Unauthorized Process', 'process': 'ms-teams.exe', 'pid': 34400, 'path': 'C:\\Program Files\\WindowsApps\\MSTeams_26015.1706.4351.4392_x64__8wekyb3d8bbwe\\ms-teams.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 34428, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 34536, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 34980, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 35040, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 35044, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'SearchFilterHost.exe', 'pid': 35136, 'path': 'C:\\Windows\\System32\\SearchFilterHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 35224, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'FileCoAuth.exe', 'pid': 35376, 'path': 'C:\\Program Files\\Microsoft OneDrive\\26.012.0119.0002\\FileCoAuth.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 35516, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'OpenConsole.exe', 'pid': 35832, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\\OpenConsole.exe'}
+{'type': 'Unauthorized Process', 'process': 'dwm.exe', 'pid': 35848, 'path': 'C:\\Windows\\System32\\dwm.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 35856, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'TextInputHost.exe', 'pid': 36448, 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 36640, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'conhost.exe', 'pid': 37084, 'path': 'C:\\Windows\\System32\\conhost.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 37224, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 37408, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'LinkedIn.exe', 'pid': 37664, 'path': 'C:\\Program Files\\WindowsApps\\7EE7776C.LinkedInforWindows_3.0.43.0_x64__w1wdnht996qgy\\LinkedIn.exe'}
+{'type': 'Unauthorized Process', 'process': 'Widgets.exe', 'pid': 37844, 'path': 'C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe'}
+{'type': 'Unauthorized Process', 'process': 'ctfmon.exe', 'pid': 38384, 'path': 'C:\\Windows\\System32\\ctfmon.exe'}
+{'type': 'Unauthorized Process', 'process': 'RuntimeBroker.exe', 'pid': 38668, 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'Code.exe', 'pid': 38728, 'path': 'C:\\Users\\Vaishali\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedgewebview2.exe', 'pid': 38888, 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.115\\msedgewebview2.exe'}
+{'type': 'Unauthorized Process', 'process': 'UserOOBEBroker.exe', 'pid': 38928, 'path': 'C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'Copilot.exe', 'pid': 38976, 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.84.0_x64__8wekyb3d8bbwe\\Copilot.exe'}
+{'type': 'Unauthorized Process', 'process': 'HP.HPX.exe', 'pid': 39212, 'path': 'C:\\Program Files\\WindowsApps\\AD2F1837.myHP_52.52602.670.0_x64__v10z8vjag6ke6\\HP.HPX.exe'}
+{'type': 'Unauthorized Process', 'process': 'ExpressVPNNotificationService.exe', 'pid': 39216, 'path': 'C:\\Program Files (x86)\\ExpressVPN\\expressvpn-ui\\ExpressVPNNotificationService.exe'}
+{'type': 'Unauthorized Process', 'process': 'SystemSettingsBroker.exe', 'pid': 39440, 'path': 'C:\\Windows\\System32\\SystemSettingsBroker.exe'}
+{'type': 'Unauthorized Process', 'process': 'ApplicationFrameHost.exe', 'pid': 39724, 'path': 'C:\\Windows\\System32\\ApplicationFrameHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'py.exe', 'pid': 39928, 'path': 'C:\\Windows\\py.exe'}
+{'type': 'Unauthorized Process', 'process': 'McUICnt.exe', 'pid': 39984, 'path': 'C:\\Program Files\\Common Files\\McAfee\\Platform\\McUICnt.exe'}
+{'type': 'Unauthorized Process', 'process': 'AggregatorHost.exe', 'pid': 40136, 'path': 'C:\\Windows\\System32\\AggregatorHost.exe'}
+{'type': 'Unauthorized Process', 'process': 'chrome.exe', 'pid': 40192, 'path': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'}
+{'type': 'Unauthorized Process', 'process': 'msedge.exe', 'pid': 40364, 'path': 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe'}
+{'type': 'Unauthorized Process', 'process': 'cmd.exe', 'pid': 40868, 'path': 'C:\\Windows\\System32\\cmd.exe'}
