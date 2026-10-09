@@ -53,7 +53,7 @@ The system uses **behavioral analysis and baseline comparison** instead of tradi
 
 ## 🐍 Python Version
 
-Python 3.x (Recommended: Python 3.8 or above)
+Python 3.14 (Recommended: Python 3.8 or above)
 
 ---
 
@@ -61,10 +61,10 @@ Python 3.x (Recommended: Python 3.8 or above)
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/windows-process-monitor.git
+git clone https://github.com/kadamvaishali378/Windows-Service-and-Process-Monitoring-Agent.git
 
 # Navigate to project
-cd windows-process-monitor
+cd Windows-Service-and-Process-Monitoring-Agent
 
 # Run application
 python main.py
@@ -190,7 +190,7 @@ Total Alerts Generated: 5
 ## 📁 Project Structure
 
 ```
-windows-process-monitor/
+Windows-Service-and-Process-Monitoring-Agent/
 │── main.py
 │── reports/
 |   |── final_report.txt
@@ -270,8 +270,7 @@ This project demonstrates how behavior-based monitoring can detect suspicious ac
 
 ## 👩‍💻 Author
 
-**Vaishali Vasant Kadam**
-Cyber Security Internship Project
+**Vaishali Kadam**
 
 ---
 
